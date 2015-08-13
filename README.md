@@ -1,4 +1,1 @@
-auto-suggest
-============
-
-Auto suggestion for input without js framework
+Project moved to http://gitweb.gorgones.net/daniel.douat/auto-suggest
